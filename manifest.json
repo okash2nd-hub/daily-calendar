@@ -1,0 +1,18 @@
+{
+  "name": "日めくり",
+  "short_name": "日めくり",
+  "description": "毎日一枚、今日の言葉をめくろう",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eeede9",
+  "theme_color": "#eeede9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
